@@ -1,6 +1,7 @@
 site_name: "Botshare Book"
 site_url: "https://botshareai.github.io/Botshare_book/"
 repo_url: "https://github.com/BotshareAI/Botshare_book"
+
 theme:
   name: "material"
   features:
@@ -23,4 +24,3 @@ nav:
 
 plugins:
   - search
-  - mkdocs-material
