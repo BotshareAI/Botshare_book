@@ -126,4 +126,4 @@ Participants who successfully complete the program will:
 
 This initiative is built for those **who want to learn, apply, and innovate in AI-driven robotics and automation**.
 
-📖 **[Start Learning Now](getting_started)**
+📖 **[Start learning now](getting_started)**
