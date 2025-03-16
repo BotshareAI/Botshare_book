@@ -1,19 +1,17 @@
-# Getting started
+# Getting Started
 
-## What is OpenAMR & EasyMove?
-OpenAMR and EasyMove are open-source projects designed to automate warehouse operations for SMEs.
-
-- **OpenAMR**: Autonomous mobile robots (AMRs) for material transport, order fulfillment, and goods handling.
-- **EasyMove**: Puzzle-based rack-moving system with AI-powered computer vision for optimized storage and picking.
-
-## Who is this book for?
+## Who is this for?
 This book is designed for:
-- Engineers and developers interested in warehouse automation.
-- SMEs looking to implement cost-effective robotics solutions.
-- Researchers and students learning about AI-driven logistics.
+- **Students & Engineers** who want to **master AI & robotics**.
+- **Entrepreneurs & SME Owners** who want to **develop automation solutions**.
+- **Warehouse Managers & Logistics Experts** who want to **implement AI-driven automation**.
 
-## How to get started?
-1. Clone the OpenAMR repository:  
-git clone https://github.com/OpenAMR/OpenAMR.git
-2. Install dependencies and configure hardware/software.
-3. Follow the **Implementation Guide** for step-by-step setup.
+## Learning Roadmap
+1️⃣ **Start with AI & robotics fundamentals** (robotics design, automation, computer vision).  
+2️⃣ **Follow step-by-step implementation guides** (building AMRs, integrating AI, and warehouse automation).  
+3️⃣ **Work on real-world projects** (pick-and-place robots, last-mile fulfillment automation).  
+4️⃣ **Develop a business model** (AI-driven warehouse automation, Robotics-as-a-Service).  
+
+### 🌍 **Join the Community**
+- [GitHub Discussions](https://github.com/OpenAMR)  
+
