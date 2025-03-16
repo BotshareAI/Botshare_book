@@ -4,7 +4,6 @@ repo_url: "https://github.com/BotshareAI/Botshare_book"
 
 theme:
   name: "material"
-  logo: "assets/images/favicon.png"
   features:
     - navigation.tabs
     - navigation.sections
