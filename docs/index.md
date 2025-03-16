@@ -19,7 +19,7 @@ This initiative consists of **three interconnected pillars**:
 
 ---
 
-## Problem-based learning: addressing real-world automation challenges
+## Problem-based learning
 
 Small and medium-sized warehouses face increasing pressure to handle growing e-commerce demand, optimize storage, and reduce operational costs. Traditional automation solutions are expensive and complex, leaving many SMEs without scalable options. Many businesses struggle with labor shortages, inefficient inventory management, and high order fulfillment costs.  
 
