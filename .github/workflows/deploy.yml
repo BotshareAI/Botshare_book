@@ -20,9 +20,8 @@ jobs:
         with:
           python-version: "3.9"
 
-      - name: Install MkDocs
+      - name: Install dependencies
         run: pip install mkdocs mkdocs-material
 
       - name: Deploy MkDocs
-        run: |
-          mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --force
