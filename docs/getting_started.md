@@ -13,5 +13,5 @@ This book is designed for:
 4️⃣ **Develop a business model** (AI-driven warehouse automation, Robotics-as-a-Service).  
 
 ### 🌍 **Join the Community**
-- [GitHub Discussions](https://github.com/OpenAMR)  
+- [GitHub Discussions](https://github.com/OpenAMRobot)  
 
