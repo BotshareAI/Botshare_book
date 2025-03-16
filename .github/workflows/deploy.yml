@@ -3,11 +3,11 @@ name: Deploy MkDocs
 on:
   push:
     branches:
-      - main  # Runs on push to the main branch
-  workflow_dispatch:  # Allows manual execution
+      - main
+  workflow_dispatch:
 
 permissions:
-  contents: write  # Allow GitHub Actions to write to gh-pages branch
+  contents: write
 
 jobs:
   deploy:
@@ -19,13 +19,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: "3.10"
+          python-version: "3.9"
 
       - name: Install dependencies
         run: |
-          pip install mkdocs
-          pip install mkdocs-material
-          pip install mkdocs-awesome-pages-plugin
+          python -m pip install --upgrade pip
+          pip install mkdocs-material mkdocs
 
       - name: Build and deploy
         run: mkdocs gh-deploy --force
