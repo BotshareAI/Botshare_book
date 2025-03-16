@@ -1,16 +1,16 @@
-site_name: OpenAMR Book
+site_name: Botshare_book
 site_url: https://botshareAI.github.io/Botshare_book/
 repo_url: https://botshareAI.github.io/Botshare_book/
 theme:
   name: material  # This provides a clean and professional look
-  logo: docs/assets/logo.jpg
-  favicon: docs/assets/favicon.ico
+  logo: assets/logo.jpg
+  favicon: assets/favicon.ico
 nav:
-  - Home: docs/index.md
-  - Getting Started: docs/getting_started.md
-  - Technology Overview: docs/technology_overview.md
-  - Implementation Guide: docs/implementation_guide.md
-  - Use Cases: docs/use_cases.md
-  - Contributing: docs/contributing.md
-  - FAQ: docs/faq.md
-  - References: docs/references.md
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Technology Overview: technology_overview.md
+  - Implementation Guide: implementation_guide.md
+  - Use Cases: use_cases.md
+  - Contributing: contributing.md
+  - FAQ: faq.md
+  - References: references.md
