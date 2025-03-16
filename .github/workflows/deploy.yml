@@ -1,36 +1,27 @@
-name: Deploy Botshare Book
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # Ensure your main branch is correctly set
+      - gh-pages  # This ensures the site deploys from the gh-pages branch
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: '3.9'
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
 
-      - name: Install dependencies
-        run: |
-          pip install -U pip
-          pip install jupyter-book ghp-import
-
-      - name: Build the book
-        run: |
-          jupyter-book build .
+      - name: Upload static site files
+        uses: actions/upload-pages-artifact@v1
 
       - name: Deploy to GitHub Pages
-        run: |
-          ghp-import -n -p -f -r origin -b gh-pages _build/html
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/deploy-pages@v1
