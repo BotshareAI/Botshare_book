@@ -11,7 +11,15 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
-    - toc.integrate
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/BotshareAI/Botshare_book
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@botshare.ai
+
 
 nav:
   - Home: index.md
