@@ -27,10 +27,11 @@ extra:
 
 nav:
   - Home: index.md
-  - Getting Started: getting_started.md
-  - Technology Overview: technology_overview.md
-  - Implementation Guide: implementation_guide.md
-  - Use Cases: use_cases.md
+  - Introduction: introduction.md
+  - Getting started: getting_started.md
+  - Technology overview: technology_overview.md
+  - Implementation guide: implementation_guide.md
+  - Use cases: use_cases.md
   - Contributing: contributing.md
   - FAQ: faq.md
   - References: references.md
