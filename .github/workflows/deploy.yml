@@ -1,31 +1,36 @@
-name: Deploy MkDocs to GitHub Pages
+name: Deploy Botshare Book
 
 on:
   push:
     branches:
-      - main  # Runs whenever changes are pushed to main branch
+      - main  # Ensure your main branch is correctly set
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          fetch-depth: 0
 
-      - name: Install Dependencies
-        run: pip install mkdocs-material
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
 
-      - name: Build Site
-        run: mkdocs build
+      - name: Install dependencies
+        run: |
+          pip install -U pip
+          pip install jupyter-book ghp-import
+
+      - name: Build the book
+        run: |
+          jupyter-book build .
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+        run: |
+          ghp-import -n -p -f -r origin -b gh-pages _build/html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
