@@ -19,6 +19,11 @@ extra:
       link: https://github.com/BotshareAI/Botshare_book
     - icon: fontawesome/solid/envelope
       link: mailto:info@botshare.ai
+    - icon: fontawesome/brands/github
+      link: https://github.com/openAMRobot
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/botshare
+
 
 
 nav:
