@@ -27,7 +27,6 @@ extra:
 
 nav:
   - Home: index.md
-  - Introduction: introduction.md
   - Getting started: getting_started.md
   - Technology overview: technology_overview.md
   - Implementation guide: implementation_guide.md
