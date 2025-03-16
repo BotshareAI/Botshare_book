@@ -17,9 +17,9 @@ This initiative consists of **three interconnected pillars**:
 - **Hands-on product development** – Developing AMRs, cobots, and AI-based warehouse automation systems.
 - **Business & entrepreneurship** – Scaling robotic solutions into commercial ventures.
 
-# Problem-based learning: addressing real-world automation challenges
+---
 
-## The problem
+## Problem-based learning: addressing real-world automation challenges
 
 Small and medium-sized warehouses face increasing pressure to handle growing e-commerce demand, optimize storage, and reduce operational costs. Traditional automation solutions are expensive and complex, leaving many SMEs without scalable options. Many businesses struggle with labor shortages, inefficient inventory management, and high order fulfillment costs.  
 
