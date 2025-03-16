@@ -1,18 +1,18 @@
-# Technology Overview
+# Technology overview
 
 ## What is Open Robotics AI & Deep-Tech Education?
-This is a **practical education platform** that provides **real-world AI-driven warehouse automation knowledge**.
+An **open-source, real-world robotics and AI training initiative** focused on warehouse automation and logistics.
 
-## What Technologies Does It Cover?
-✅ **Autonomous Mobile Robots (AMRs)** – AI-powered robots for material handling.  
-✅ **AI-Based Computer Vision (CV)** – Object detection, pick-and-place.  
-✅ **Puzzle-Based Rack Systems** – Intelligent storage & retrieval automation.  
-✅ **Fleet Management Systems** – AI-powered optimization of warehouse logistics.  
-✅ **Warehouse Robotics Integration** – Connecting automation with ERP/WMS.  
+## Key technologies
+- **Autonomous Mobile Robots (AMRs)** – AI-powered logistics and material handling.
+- **AI-Based Computer Vision (CV)** – Object detection, robotic pick-and-place.
+- **Puzzle-Based Rack Systems** – AI-driven warehouse optimization.
+- **AI Fleet Management Systems** – Multi-robot coordination for warehouses.
+- **Warehouse Automation Integration** – Connecting robotics with ERP, WMS.
 
-## Key Features
-- **Deep Learning for Logistics Automation** (Computer Vision, AI-driven scheduling).
-- **Robotics Education from Beginner to Expert** (Simulation, real-world deployment).
-- **Open-Source Tools & Business Training** (Scaling robotics startups, RaaS models).
+## What you will learn:
+1. **AI-powered AMRs** – Navigation, SLAM, reinforcement learning.
+2. **Computer Vision & AI for Robotics** – Image recognition, robotic control.
+3. **End-to-end automation** – Full-stack warehouse automation for last-mile logistics.
 
-📖 **[Explore Implementation Guide](implementation-guide.md)**
+📖 **[Explore the Implementation Guide](implementation_guide)**
