@@ -1,0 +1,10 @@
+format: jb-book
+root: docs/index
+chapters:
+  - file: docs/getting_started
+  - file: docs/technology_overview
+  - file: docs/implementation_guide
+  - file: docs/use_cases
+  - file: docs/contributing
+  - file: docs/faq
+  - file: docs/references
