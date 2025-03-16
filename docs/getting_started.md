@@ -1,17 +1,14 @@
-# Getting Started
+# Getting started
 
 ## Who is this for?
-This book is designed for:
-- **Students & Engineers** who want to **master AI & robotics**.
-- **Entrepreneurs & SME Owners** who want to **develop automation solutions**.
-- **Warehouse Managers & Logistics Experts** who want to **implement AI-driven automation**.
+- **Students & Engineers** – Gain expertise in **AI-powered robotics, automation, and deep tech**.
+- **Entrepreneurs & Startups** – Learn to build and scale **robotics businesses**.
+- **Industry Professionals & SMEs** – Upskill in **automation and digital transformation**.
 
-## Learning Roadmap
-1️⃣ **Start with AI & robotics fundamentals** (robotics design, automation, computer vision).  
-2️⃣ **Follow step-by-step implementation guides** (building AMRs, integrating AI, and warehouse automation).  
-3️⃣ **Work on real-world projects** (pick-and-place robots, last-mile fulfillment automation).  
-4️⃣ **Develop a business model** (AI-driven warehouse automation, Robotics-as-a-Service).  
+## Learning roadmap
+1. **Master AI & Robotics fundamentals** – Path planning, embedded systems, CV, deep learning.
+2. **Build and test real-world automation projects** – Warehouse robotics, autonomous navigation.
+3. **Develop business & entrepreneurship skills** – Commercializing robotics solutions, RaaS models.
+4. **Work on industry-specific applications** – E-commerce fulfillment, last-mile delivery, AI logistics.
 
-### 🌍 **Join the Community**
-- [GitHub Discussions](https://github.com/OpenAMRobot)  
-
+📖 **[Explore the Technology Overview](technology_overview)**
