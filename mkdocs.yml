@@ -1,10 +1,16 @@
-site_name: Botshare_book
-site_url: https://botshareAI.github.io/Botshare_book/
-repo_url: https://botshareAI.github.io/Botshare_book/
+site_name: "Botshare Book"
+site_url: "https://botshareai.github.io/Botshare_book/"
+repo_url: "https://github.com/BotshareAI/Botshare_book"
 theme:
-  name: material  # This provides a clean and professional look
-  logo: assets/logo.jpg
-  favicon: assets/favicon.ico
+  name: "material"
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
 nav:
   - Home: index.md
   - Getting Started: getting_started.md
@@ -14,3 +20,7 @@ nav:
   - Contributing: contributing.md
   - FAQ: faq.md
   - References: references.md
+
+plugins:
+  - search
+  - mkdocs-material
