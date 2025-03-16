@@ -1,14 +1,16 @@
-# Contributing
+# How to Contribute
+We welcome contributions! Here’s how you can help:
+- **Submit Issues**: Report bugs or suggest improvements.
+- **Improve Documentation**: Help make explanations clearer.
+- **Develop Features**: Add new modules or enhance existing ones.
 
-## How to get involved
-- **Developers**: Contribute to OpenAMR & EasyMove by improving navigation, AI models, and system integration.
-- **Businesses**: Share insights on how automation can help your operations.
-- **Researchers & Educators**: Use OpenAMR as a learning platform for AI, robotics, and logistics.
+## Steps to Contribute
+1. Fork the repository.
+2. Make changes in a new branch.
+3. Submit a pull request (PR).
 
-## How to contribute code
-1. Fork the repository on GitHub.
-2. Clone the repo and create a new branch.
-3. Make improvements and submit a pull request.
+🚀 [View the GitHub Repo](https://github.com/openAMRobot)
+
 
 ## Community
 Join discussions, share ideas, and collaborate on the future of AI-driven warehouse automation.
