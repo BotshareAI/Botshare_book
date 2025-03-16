@@ -1,0 +1,7 @@
+title: Botshare Book
+author: BotshareAI Team
+description: >-
+  Open-source documentation and educational materials on AI-driven warehouse automation.
+theme: jekyll-theme-slate  # You can use another theme like jekyll-theme-cayman or jekyll-theme-minimal
+markdown: kramdown
+
