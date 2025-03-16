@@ -1,15 +1,15 @@
-# Use Cases
+# Use cases
 
-## Industries Benefiting from AI-Powered Robotics
-✔ **E-commerce Fulfillment** (Automated order picking & packing).  
-✔ **E-Grocery Warehouses** (Fresh food handling & inventory automation).  
-✔ **Courier & Parcel Sorting (CEP)** (Last-mile delivery optimization).  
-✔ **Smart Manufacturing & Logistics** (AI-powered production & warehouse logistics).  
+## Industries
+- **E-commerce fulfillment** – Order sorting, picking, last-mile automation.
+- **E-grocery logistics** – Fresh food handling, automated warehouse storage.
+- **CEP (Courier, Express, Parcel)** – Parcel sorting, automated dispatch.
+- **Manufacturing & smart logistics** – Robotics-driven assembly & logistics.
 
-## AI-Driven Business Impact
-📌 **Reduces warehouse labor costs by 75%**.  
-📌 **Optimizes warehouse space utilization (97% rack efficiency)**.  
-📌 **Increases order fulfillment speed (up to 1000 items/hour)**.  
-📌 **Enables Robotics-as-a-Service (RaaS) business models**.  
+## AI-Driven business impact
+- **75% reduction in warehouse labor costs**.
+- **97% optimization in warehouse storage efficiency**.
+- **Up to 1000 items per hour automated processing**.
+- **Scalable Robotics-as-a-Service (RaaS) models**.
 
-📖 **[Contribute to the Project](contributing.md)**
+📖 **[Contribute to the Project](contributing)**
