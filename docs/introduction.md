@@ -10,3 +10,6 @@ OpenAMR and EasyMove offer an **affordable, open-source, AI-powered warehouse au
 - **E-commerce fulfillment centers** – Automating order picking and last-mile logistics.
 - **E-grocery fulfillment warehouses** – Optimizing fresh food storage and dispatch.
 - **CEP sorting hubs** – Enhancing parcel routing and last-mile delivery.
+
+!!! info "Did You Know?"
+    OpenAMR is a fully open-source AMR solution for warehouse automation.
