@@ -1,17 +1,20 @@
-# Getting Started
+# Open Robotics AI & Deep-Tech Education
 
-## Who is this for?
-This book is designed for:
-- **Students & Engineers** who want to **master AI & robotics**.
-- **Entrepreneurs & SME Owners** who want to **develop automation solutions**.
-- **Warehouse Managers & Logistics Experts** who want to **implement AI-driven automation**.
+## Introduction
 
-## Learning Roadmap
-1️⃣ **Start with AI & robotics fundamentals** (robotics design, automation, computer vision).  
-2️⃣ **Follow step-by-step implementation guides** (building AMRs, integrating AI, and warehouse automation).  
-3️⃣ **Work on real-world projects** (pick-and-place robots, last-mile fulfillment automation).  
-4️⃣ **Develop a business model** (AI-driven warehouse automation, Robotics-as-a-Service).  
+Welcome to **Open Robotics AI & Deep-Tech Education**, an **open-source initiative** designed to bridge the gap between **deep-tech education, AI-driven robotics, and real-world business applications**.
 
-### 🌍 **Join the Community**
-- [GitHub Discussions](https://github.com/openAMRobot)  
-  
+This project is not just about learning robotics—it is about **applying** AI and automation **to solve real-world challenges** in warehouse logistics, fulfillment centers, and last-mile delivery hubs.
+
+Through this GitHub Book, you will:
+✅ Learn AI-driven warehouse automation.  
+✅ Gain hands-on experience in **robotics, automation, and AI**.  
+✅ Understand how to **build a business** around warehouse automation.  
+✅ Explore real-world applications in **e-commerce, e-grocery, CEP, and logistics**.  
+
+This initiative is structured into **three key pillars**:
+1️⃣ **Deep Tech & Robotics Training** – Fundamentals of AI, robotics, and automation.  
+2️⃣ **Hands-on Product Development** – Real-world robotics projects in warehouse automation.  
+3️⃣ **Business & Entrepreneurship** – Scaling robotics into profitable businesses.  
+
+📖 **[Start Learning Now](getting-started.md)**
