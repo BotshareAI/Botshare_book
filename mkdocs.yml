@@ -1,6 +1,6 @@
 site_name: OpenAMR Book
-site_url: https://openAMRobot.github.io/OpenAMR_Book/
-repo_url: https://github.com/openAMRobot/OpenAMR_Book
+site_url: https://botshareAI.github.io/Botshare_book/
+repo_url: https://botshareAI.github.io/Botshare_book/
 theme:
   name: material  # This provides a clean and professional look
   logo: docs/assets/logo.jpg
