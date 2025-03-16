@@ -18,4 +18,4 @@ This initiative is structured into **three key pillars**:
 2️⃣ **Hands-on Product Development** – Real-world robotics projects in warehouse automation.  
 3️⃣ **Business & Entrepreneurship** – Scaling robotics into profitable businesses.  
 
-📖 **[Start Learning Now](getting_started.md)**
+📖 **[Start Learning Now](getting_started)**
