@@ -11,4 +11,4 @@
 3. **Develop business & entrepreneurship skills** – Commercializing robotics solutions, RaaS models.
 4. **Work on industry-specific applications** – E-commerce fulfillment, last-mile delivery, AI logistics.
 
-📖 **[Explore the technology overview](technology_overview)**
+📖 **[Explore the technology overview](../technology_overview)**
