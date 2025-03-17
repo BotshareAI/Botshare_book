@@ -57,7 +57,7 @@ This initiative is structured as a **problem-based, hands-on learning program** 
 
 ### **Course format**
 - **Duration:** **4 months** of structured training for each of 3 modules.  
-- **Lessons:** **2 times per week, each session lasting 2 hours** (total **64 hours**).  
+- **Lessons:** **2 times per week, each session lasting 2 hours** (total **64 hours**) for each of 3 modules.  
 - **Format:** A combination of **video lessons, webinars, hands-on projects, and quizzes**.  
 - **Certification:** Earn an **industry-recognized certificate** upon completion.  
 
