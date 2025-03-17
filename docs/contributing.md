@@ -10,4 +10,4 @@
 2️⃣ **Join discussions on warehouse robotics & AI**.  
 3️⃣ **Collaborate with robotics professionals & SMEs**.  
 
-📖 **[Read FAQs](faq.md)**
+📖 **[Read FAQs](../faq)**
