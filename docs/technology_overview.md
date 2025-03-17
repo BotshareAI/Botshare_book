@@ -15,4 +15,5 @@ An **open-source, real-world robotics and AI training initiative** focused on wa
 2. **Computer Vision & AI for Robotics** – Image recognition, robotic control.
 3. **End-to-end automation** – Full-stack warehouse automation for last-mile logistics.
 
-📖 **[Explore the implementation guide](implementation_guide)**
+📖 **[Explore the implementation guide](../implementation_guide/)** 
+
