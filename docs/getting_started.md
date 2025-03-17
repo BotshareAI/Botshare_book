@@ -35,11 +35,11 @@ Welcome to Open Robotics AI & Deep-Tech Education, a structured, open-source edu
 **EIT-Label Certified:** No  
 **Other Certification:** Industry-recognized certificate  
 
-**Educational Level:** Suitable for Secondary, Upper Secondary, Tertiary, Postgraduate, Vocational, and Continuing Education.
+**Educational Level:** Suitable for Secondary, Upper secondary, Tertiary, Postgraduate, Vocational, and Continuing Education.
 
 ---
 
-## Get Started
+## Get started
 This initiative is built for those who want to learn, apply, and innovate in AI-driven robotics and automation.
 
 📖 **[Explore the technology overview](../technology_overview)**
