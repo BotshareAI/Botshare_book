@@ -16,7 +16,9 @@ This initiative consists of **three interconnected pillars**:
 - **Deep-tech and robotics training** – Theoretical and practical AI-robotics education.
 - **Hands-on product development** – Developing AMRs, cobots, and AI-based warehouse automation systems.
 - **Business & entrepreneurship** – Scaling robotic solutions into commercial ventures.
+
 ---
+
 ## Problem-based learning
 
 Small and medium-sized warehouses face increasing pressure to handle growing e-commerce demand, optimize storage, and reduce operational costs. Traditional automation solutions are expensive and complex, leaving many SMEs without scalable options. Many businesses struggle with labor shortages, inefficient inventory management, and high order fulfillment costs.  
@@ -32,18 +34,18 @@ The lack of accessible automation training further limits the ability of busines
 
 By combining AMRs with **AI-driven dynamic storage**, we provide an **affordable, scalable, and flexible warehouse automation solution** for businesses while **training professionals in deep-tech disciplines**.
 
-## Who benefits from this initiative?
+## Who benefits?
 
+- **Engineers and tech professionals** – Gaining expertise in robotics, AI, and industrial automation.  
+- **Entrepreneurs and business owners** – Understanding how to commercialize automation and robotics solutions.
 - **E-commerce fulfillment centers** – Automating order picking and last-mile logistics.  
 - **E-grocery fulfillment warehouses** – Optimizing fresh food storage and dispatch.  
 - **CEP (Courier, Express, and Parcel) sorting hubs** – Enhancing parcel routing and last-mile delivery.  
 - **SMEs and startups** – Learning how to implement AI-driven warehouse automation at a lower cost.  
-- **Engineers and tech professionals** – Gaining expertise in robotics, AI, and industrial automation.  
-- **Entrepreneurs and business owners** – Understanding how to commercialize automation and robotics solutions.
 
 ---
 
-## Structure of the training
+## Structure
 
 This initiative is structured as a **problem-based, hands-on learning program** focused on **AI, robotics, and industrial automation**. It is designed to be more than just theory—it prepares learners for **real-world challenges** by guiding them through practical implementation.
 
@@ -72,7 +74,7 @@ This initiative is structured as a **problem-based, hands-on learning program** 
 
 This is not just a training program—it is a **collaborative ecosystem** where learners actively engage with experts, industry leaders, and fellow robotics enthusiasts.
 
-### **Ways to connect and collaborate**
+### **Connect and collaborate**
 - **GitHub discussions** – Participate in project development, contribute code, and exchange ideas.  
 - **Live mentorship and expert-led Q&A sessions** – Gain insights from professionals in AI and robotics.  
 - **Open-source contributions** – Improve documentation, test robotic systems, and enhance automation tools.  
@@ -82,11 +84,11 @@ By contributing to the **real-world development** of OpenAMR and EasyMove, parti
 
 ---
 
-## Project management and high-tech entrepreneurship
+## Project management and entrepreneurship
 
 Beyond technical training, the program also includes **business and project management modules**, ensuring that learners **understand how to implement and scale robotics solutions** in real industries.
 
-### **Business & entrepreneurship topics covered**
+### **Business & entrepreneurship**
 - **Project planning & Agile development** – Managing AI and robotics projects efficiently.  
 - **Monetization & business models** – Turning robotics solutions into profitable businesses.  
 - **Funding & investment strategies** – Accessing grants, venture capital, and government innovation programs.  
@@ -97,7 +99,7 @@ These modules ensure that learners not only **develop cutting-edge technology** 
 
 ---
 
-## Who is this training for?
+## For whom?
 
 The program is open to **students, engineers, professionals, and entrepreneurs** looking to gain expertise in AI, robotics, and automation.
 
