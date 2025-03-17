@@ -12,4 +12,4 @@
 - **Up to 1000 items per hour automated processing**.
 - **Scalable Robotics-as-a-Service (RaaS) models**.
 
-📖 **[Contribute to the Project](contributing)**
+📖 **[Contribute to the Project](../contributing)**
