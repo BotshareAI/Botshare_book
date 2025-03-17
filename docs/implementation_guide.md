@@ -15,4 +15,4 @@
 - **AI-powered scheduling** – Dynamic slotting, demand-based storage.
 - **Performance monitoring & scalability** – Optimizing AI warehouse operations.
 
-📖 **[Explore Use Cases](use_cases)**
+📖 **[Explore Use Cases](../use_cases)**
