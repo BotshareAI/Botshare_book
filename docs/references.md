@@ -6,7 +6,7 @@
 🔹 **Deep Learning for Logistics** – https://pytorch.org  
 
 ## OpenAMR & EasyMove Documentation
-📌 **[OpenAMR GitHub Repository](https://github.com/OpenAMR)**  
+📌 **[OpenAMR GitHub Repository](https://github.com/OpenAMRobot)**  
 📌 **[EasyMove AI-Based Storage System](https://github.com/EasyMove)**  
 
 ---
