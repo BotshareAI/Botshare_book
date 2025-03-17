@@ -1,6 +1,6 @@
 site_name: "Botshare Book"
 site_url: "https://botshareai.github.io/Botshare_book/"
-repo_url: "https://github.com/BotshareAI/Botshare_book"
+repo_url: "https://github.com/openAMRobot"
 
 theme:
   name: "material"
