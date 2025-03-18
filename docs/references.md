@@ -10,7 +10,8 @@
 📌 **[EasyMove AI-Based Storage System](https://github.com/EasyMove)**  
 
 ## Botshare Company
-📌 **[Botshare.blog](https://www.botshare.blog/ai-robotics-mastery-from-deep-tech-to-entrepreneurship/)**  
-📌 **[Botshare.ai](https://botshare.ai/)**  
+🌐 **[Botshare.blog](https://www.botshare.blog/ai-robotics-mastery-from-deep-tech-to-entrepreneurship/)**  
+📝 **[Botshare.ai](https://botshare.ai/)**  
+🎥 **[Botshare.ai](https://www.youtube.com/@Botshare_Solutions)**
 
 ---
