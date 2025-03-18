@@ -9,4 +9,8 @@
 📌 **[OpenAMR GitHub Repository](https://github.com/OpenAMRobot)**  
 📌 **[EasyMove AI-Based Storage System](https://github.com/EasyMove)**  
 
+## Botshare Company
+📌 **[Botshare.blog](https://www.botshare.blog/ai-robotics-mastery-from-deep-tech-to-entrepreneurship/)**  
+📌 **[Botshare.ai](https://botshare.ai/)**  
+
 ---
