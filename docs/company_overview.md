@@ -10,6 +10,22 @@ Our ecosystem is structured around three key pillars:
 - **Robotics & automation services** – Delivering tailored automation solutions for SMEs.
 - **Education & training** – Empowering professionals with deep-tech learning and hands-on experience.
 
+                          [ Open-Source Core ]
+                   (Foundation and Proof of Expertise)
+                        ┌───────────────┐
+                        │   OpenAMR     │
+                        │   EasyMove    │
+                        └───────────────┘
+                                │
+            ┌───────────────────┼───────────────────┐
+            │                                       │
+   [ Business Services ]                [ Education & Training ]
+  (Primary revenue focus)              (Community & brand building)
+    - Robotics consulting                - Structured AI/robotics courses
+    - AMR system integration             - Based on OpenAMR & EasyMove
+    - Warehouse automation               - Certifications & GitHub
+    - SME solutions                      - Webinars, hands-on projects
+
 ---
 
 ## Our structure
