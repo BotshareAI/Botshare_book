@@ -57,4 +57,4 @@ Our initiative, **Open Robotics AI & Deep-Tech Education**, offers structured tr
 
 ---
 
-**Together, let’s build the future of automation—open, intelligent, and accessible to all.**
+**Together, let’s build the future of automation - open, intelligent, and accessible to all.**
