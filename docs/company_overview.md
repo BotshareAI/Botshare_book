@@ -9,9 +9,7 @@ Our ecosystem is structured around three key pillars:
 - **Open-source innovation** – Advancing automation through transparent, community-driven development.
 - **Robotics & automation services** – Delivering tailored automation solutions for SMEs.
 - **Education & training** – Empowering professionals with deep-tech learning and hands-on experience.
-
 ---
-
 ## Our structure
 
 ### 1. Open-source innovation (Core)
