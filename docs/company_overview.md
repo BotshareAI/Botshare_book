@@ -18,7 +18,7 @@ Our ecosystem is structured around three key pillars:
 We develop and maintain open-source projects that drive automation advancements and demonstrate our expertise:
 
 - **[OpenAMR](https://github.com/botshareai/OpenAMR)** – Autonomous Mobile Robot (AMR) platform for warehouse logistics, material handling, and intralogistics automation.
-- **[EasyMove](https://github.com/botshareai/EasyMove)** – AI-powered puzzle-based rack-moving system for intelligent storage, picking, and replenishment (*in progress...*).
+- **[EasyMove](https://github.com/botshareai/OpenAMR)** – AI-powered puzzle-based rack-moving system for intelligent storage, picking, and replenishment (*in progress...*).
 
 These projects serve as educational platforms and proofs of expertise, reinforcing trust and transparency.
 
@@ -46,28 +46,14 @@ Our initiative, **Open Robotics AI & Deep-Tech Education**, offers structured tr
 - **Module 1: Advanced Foundations** – Robotics theory, embedded systems, AI, CV, and ROS2.
 - **Module 2: Hands-on Projects** – AMR development, warehouse simulation, pick-and-place robots.
 - **Module 3: Business & Strategy** – Market research, RaaS, fundraising, go-to-market plans.
-*All modules are assisted by an AI agent to provide adaptive learning.*
 
-#### **Course Format:**
-- **Duration:** 4 months per module.
-- **Schedule:** 2 lessons per week, 2 hours each (64 hours/module).
-- **Delivery:** Online video content, live Q&A, quizzes, hands-on assignments.
-- **Certification:** Industry-recognized certificate upon completion.
+*All modules are assisted by an AI agent to provide adaptive learning.*
 
 #### **Who Benefits:**
 - Engineers and developers.
 - Entrepreneurs and founders.
 - SME operators and technical staff.
 - Students and career switchers.
-
----
-
-
-## Contact
-For collaboration, inquiries, or joining our open-source community:
-
-- **GitHub:** [github.com/botshareai](https://github.com/botshareai)
-- **Website:** [botshare.ai](https://botshare.ai)
 
 ---
 
