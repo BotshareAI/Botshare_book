@@ -17,9 +17,6 @@ The program consists of four interconnected pillars:
 3. **Prototyping & Manufacturing** – Transition from prototype to real-world manufacturing.
 4. **Business & Entrepreneurship** – Scaling robotic solutions into commercial ventures.  
 
-## Problem-based learning  
-Small and medium-sized warehouses struggle with rising e-commerce demand, inefficient inventory management, and high operational costs. Traditional automation solutions are expensive and complex, leaving many SMEs without scalable options. Additionally, engineers, operators, and business owners often lack the necessary knowledge and tools to adopt AI and robotics solutions.  
-
 ## Our solution  
 **Open Robotics AI & Deep-Tech Initiative** is an open-source initiative providing structured training and hands-on engagement with real automation systems. The program is built around two key open-source projects:  
 
@@ -50,17 +47,11 @@ This initiative follows a **problem-based, hands-on learning approach** focused 
 - **Digital Labs** - Alternative energy, biomedical electronics, cybersecurity, hands-on learning.
 - **Robot factory** - Unique classroom based open development hub for prototyping, small-scale production, and real-world applications.
 
-#### Level 2:Robotics and AI Acceleration Program course structure
+#### Level 2:Robotics and AI acceleration
 - **Master AI & Robotics Fundamentals** – Path planning, embedded systems, computer vision, deep learning.  
 - **Build & Test Real-World Automation Projects** – Warehouse robotics, autonomous navigation.  
 - **Develop Business & Entrepreneurship Skills** – Commercializing robotics solutions, RaaS models.  
 - **Work on Industry-Specific Applications** – E-commerce fulfillment, last-mile delivery, AI logistics.  
-
-### **Course Format**  
-- **Duration:** 4 months per module  
-- **Lessons:** Twice a week, 2-hour sessions (64 hours per module)  
-- **Format:** Video lessons, webinars, hands-on projects, quizzes  
-- **Certification:** Industry-recognized certificate upon completion  
 
 ## Professional Open-Source Learning Environment  
 This program immerses students in the same development environment used by AI and robotics professionals.  
@@ -82,24 +73,23 @@ This program immerses students in the same development environment used by AI an
 Students train in industry-standard environments, gaining hands-on experience while keeping the program scalable and cost-effective. By working with **real repositories, CI/CD automation, AI simulations, and industry tools**, participants develop a **strong portfolio of projects** that align with professional standards.  
 
 ## Target Audience & Career Paths  
-### **Who Should Join?**  
+### **Who should join?**  
 - **Students & Engineers** – Gain deep-tech knowledge.  
 - **Entrepreneurs & SME Owners** – Develop AI-powered automation startups.  
 - **Corporate Teams & Professionals** – Upskill for Industry 4.0.  
 
-### **Career Paths After Completion**  
+### **Career paths after completion**  
 - AI Robotics Engineer  
 - Automation & Digital Transformation Consultant  
 - RaaS Startup Founder  
 - Industrial AI & Data Science Specialist  
 - Mechatronics & Embedded Systems Developer  
 
-## Certification & Career Support  
+## Certification & Career support  
 - **Industry-Recognized Certification** in AI, Robotics & Business.  
-- **Job Placement Assistance & Investor Networking.**  
-- **Startup Incubation & Corporate Partnerships.**  
+- **Job Placement Assistance** 
 
-## Course Outcomes  
+## Course outcomes  
 By completing this course, learners will:  
 ✅ **Master AI & Robotics Development (Deep Tech).**  
 ✅ **Develop Real-World AI-Powered Robotics Applications.**  
