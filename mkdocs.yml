@@ -20,8 +20,8 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/botshare    
-copyright: "© 2025 Botshare AI. All rights reserved."
+      link: https://www.linkedin.com/company/botshare
+  copyright: "© 2025 Botshare AI. All rights reserved."
 
   use_directory_urls: false
 nav:
