@@ -8,17 +8,20 @@ Welcome to Open Robotics AI & Deep-Tech Education, a structured, open-source edu
 - **Entrepreneurs & Startups** – Learn to build and scale **robotics businesses**.
 - **Industry Professionals & SMEs** – Upskill in **automation and digital transformation**.
 
+## Problem-based learning  
+Small and medium-sized warehouses struggle with rising e-commerce demand, inefficient inventory management, and high operational costs. Traditional automation solutions are expensive and complex, leaving many SMEs without scalable options. Additionally, engineers, operators, and business owners often lack the necessary knowledge and tools to adopt AI and robotics solutions.  
+
+### **Course Format**  
+- **Duration:** 4 months per module  
+- **Lessons:** Twice a week, 2-hour sessions (64 hours per module)  
+- **Format:** Video lessons, webinars, hands-on projects, quizzes  
+- **Certification:** Industry-recognized certificate upon completion  
+
 ## Learning roadmap
 1. **Master AI & Robotics fundamentals** – Path planning, embedded systems, CV, deep learning.
 2. **Build and test real-world automation projects** – Warehouse robotics, autonomous navigation.
 3. **Develop business & entrepreneurship skills** – Commercializing robotics solutions, RaaS models.
 4. **Work on industry-specific applications** – E-commerce fulfillment, last-mile delivery, AI logistics.
-
-## Course format
-- **Duration:** 4 months for each of the 3 modules.
-- **Lessons:** 2 times per week, 2 hours per session (total 64 hours per module).
-- **Type:** Online (video lessons, webinars, hands-on projects, and quizzes).
-- **Certification:** Earn an industry-recognized certificate upon completion.
 
 ## Venue and enrollment
 - **Venue:** Germany, Berlin, BHT University Mechatronics Lab, Botshare co-working space.
