@@ -1,30 +1,31 @@
 # Open Robotics AI & Deep-Tech Initiative  
 
-## Introduction  
-**Open Robotics AI & Deep-Tech training** is a structured, open-source educational initiative designed to provide hands-on training in robotics, AI, automation, and business development. This program integrates deep-tech learning with real-world applications, equipping learners with the skills needed to build, use, maintain, and commercialize robotic systems.  
+# Open Robotics AI & Deep-Tech Training  
 
-# **What You Will Learn**  
+## Overview  
+**Open Robotics AI & Deep-Tech Training** is an open-source, hands-on initiative designed to equip learners with **STEM, robotics, AI, and business development** skills. Using a **problem-based learning approach**, it bridges **theory with real-world applications**, preparing participants to **build, deploy, and commercialize** robotics solutions. The program emphasizes both **technical expertise** and **entrepreneurial skills**, ensuring learners can innovate and scale automation technologies effectively.  
 
-Master **STEM, robotics, and AI fundamentals**, covering physics, electronics, programming, and smart technologies.  
-Learn **AI-driven automation** for AMRs, intelligent logistics, and warehouse systems.  
-Gain expertise in **deep-tech**, including embedded systems, AI navigation, and computer vision.  
-Apply **real-world robotics solutions** in e-commerce and logistics.  
-Develop **business skills** to build scalable robotics startups and Robotics-as-a-Service (RaaS) models.  
+## What You Will Learn  
+The program covers:  
+- **STEM & Robotics Fundamentals** – Physics, electronics, programming, and smart technologies.  
+- **AI-Driven Automation** – Autonomous mobile robots (AMRs), AI-powered logistics, and warehouse automation.  
+- **Deep-Tech Applications** – Embedded systems, AI navigation, and computer vision.  
+- **Industry-Ready Robotics Solutions** – Applications in e-commerce, logistics, and industrial automation.  
+- **Business & Entrepreneurship** – Building scalable robotics startups and Robotics-as-a-Service (RaaS) models.  
 
-## **Core Pillars**  
+## Core Pillars  
+Training is structured around four interconnected areas:  
+1. **Deep-Tech & Robotics** – AI-robotics education, both theoretical and practical.  
+2. **Hands-On Development** – Prototyping AMRs, cobots, and AI-powered automation systems.  
+3. **Prototyping & Manufacturing** – Transitioning concepts into real-world production.  
+4. **Business & Entrepreneurship** – Turning robotics innovations into scalable commercial ventures.  
 
-1. **Deep-Tech & Robotics** – Theoretical and practical AI-robotics education.  
-2. **Hands-On Development** – Building AMRs, cobots, and AI-driven automation.  
-3. **Prototyping & Manufacturing** – From concept to real-world production.  
-4. **Business & Entrepreneurship** – Scaling robotics into commercial ventures.  
+## Our Solution  
+This initiative is built on **two open-source projects** that merge **AI-driven automation with practical robotics training**:  
+- **OpenAMR** – Autonomous mobile robots (AMRs) for warehouse logistics and material handling.  
+- **EasyMove** – AI-powered, puzzle-based rack-moving systems for smart storage and sorting.  
 
-## Our solution  
-**Open Robotics AI & Deep-Tech Initiative** is an open-source initiative providing structured training and hands-on engagement with real automation systems. The program is built around two key open-source projects:  
-
-- **OpenAMR** – Autonomous mobile robots (AMRs) for warehouse logistics, material handling, and automation.  
-- **EasyMove** – AI-powered, puzzle-based automated rack-moving system for intelligent storage, sorting, and replenishment.  
-
-By integrating AMRs with AI-driven dynamic storage, we offer an affordable, scalable, and flexible warehouse automation solution while training professionals in deep-tech disciplines.  
+By integrating **AMRs with intelligent storage solutions**, we provide an **affordable, scalable, and flexible** warehouse automation framework while **training professionals in deep-tech disciplines** to drive innovation in robotics and AI.  
 
 ## Who benefits?  
 This program is designed for a wide range of participants, including:  
@@ -38,17 +39,14 @@ This program is designed for a wide range of participants, including:
 - **SMEs & Startups** – Implement AI-driven warehouse automation cost-effectively.  
 
 ## Course structure  
-This initiative follows a **problem-based, hands-on learning approach** focused on AI, robotics, and industrial automation.  
 
-### **Learning roadmap** 
-
-#### LeveL 1: Smart Technology & Robotics incubation
+### LeveL 1: Smart Technology & Robotics incubation
 - **STEM Fundamentals** - Mechanics, electricity, magnetism, optics - core principles for robotics.
 - **AI & IoT Integration** - Smart environments, computer vision, and real-time automation.
 - **Digital Labs** - Alternative energy, biomedical electronics, cybersecurity, hands-on learning.
 - **Robot factory** - Unique classroom based open development hub for prototyping, small-scale production, and real-world applications.
 
-#### Level 2:Robotics and AI acceleration
+### Level 2:Robotics and AI acceleration
 - **Master AI & Robotics Fundamentals** – Path planning, embedded systems, computer vision, deep learning.  
 - **Build & Test Real-World Automation Projects** – Warehouse robotics, autonomous navigation.  
 - **Develop Business & Entrepreneurship Skills** – Commercializing robotics solutions, RaaS models.  
