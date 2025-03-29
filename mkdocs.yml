@@ -28,8 +28,8 @@ extra:
 nav:
   - Home: index.md
   - Getting started: getting_started.md
-  - Technology overview: technology_overview.md
-  - Implementation guide: implementation_guide.md
+  - Level_1:Incubation: Level_1: Incubation.md
+  - Level_2:Acceleration: Level_2: Acceleration.md
   - Use cases: use_cases.md
   - Contributing: contributing.md
   - Company overview: company_overview.md
