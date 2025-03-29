@@ -3,19 +3,20 @@
 ## Introduction  
 **Open Robotics AI & Deep-Tech training** is a structured, open-source educational initiative designed to provide hands-on training in robotics, AI, automation, and business development. This program integrates deep-tech learning with real-world applications, equipping learners with the skills needed to build, use, maintain, and commercialize robotic systems.  
 
-## What you will learn  
-- **STEM and robotics fundamentals** – Learn physics, electronics, programing, smart technologies, basics of AI and robotics.
-- **AI-Driven Automation** – Design and deploy autonomous mobile robots (AMRs), AI-powered logistics, and intelligent warehouse systems.  
-- **Deep-Tech Fundamentals** – Embedded systems, AI-powered navigation, computer vision, and reinforcement learning.  
-- **Real-World Robotics Applications** – Industry-driven solutions for e-commerce, logistics, and last-mile automation.  
-- **Business & Entrepreneurship** – Develop scalable robotics startups, integrate automation into SMEs, and explore Robotics-as-a-Service (RaaS) models.  
+# **What You Will Learn**  
 
-## Core pillars  
-The program consists of four interconnected pillars:  
-1. **Deep-Tech & Robotics Training** – Theoretical and practical AI-robotics education.  
-2. **Hands-On Product Development** – Building AMRs, cobots, and AI-based warehouse automation systems.
-3. **Prototyping & Manufacturing** – Transition from prototype to real-world manufacturing.
-4. **Business & Entrepreneurship** – Scaling robotic solutions into commercial ventures.  
+Master **STEM, robotics, and AI fundamentals**, covering physics, electronics, programming, and smart technologies.  
+Learn **AI-driven automation** for AMRs, intelligent logistics, and warehouse systems.  
+Gain expertise in **deep-tech**, including embedded systems, AI navigation, and computer vision.  
+Apply **real-world robotics solutions** in e-commerce and logistics.  
+Develop **business skills** to build scalable robotics startups and Robotics-as-a-Service (RaaS) models.  
+
+## **Core Pillars**  
+
+1. **Deep-Tech & Robotics** – Theoretical and practical AI-robotics education.  
+2. **Hands-On Development** – Building AMRs, cobots, and AI-driven automation.  
+3. **Prototyping & Manufacturing** – From concept to real-world production.  
+4. **Business & Entrepreneurship** – Scaling robotics into commercial ventures.  
 
 ## Our solution  
 **Open Robotics AI & Deep-Tech Initiative** is an open-source initiative providing structured training and hands-on engagement with real automation systems. The program is built around two key open-source projects:  
