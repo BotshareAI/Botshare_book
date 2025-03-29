@@ -1,11 +1,9 @@
 # Open Robotics AI & Deep-Tech Initiative  
 
-# Open Robotics AI & Deep-Tech Training  
-
 ## Overview  
 **Open Robotics AI & Deep-Tech Training** is an open-source, hands-on initiative designed to equip learners with **STEM, robotics, AI, and business development** skills. Using a **problem-based learning approach**, it bridges **theory with real-world applications**, preparing participants to **build, deploy, and commercialize** robotics solutions. The program emphasizes both **technical expertise** and **entrepreneurial skills**, ensuring learners can innovate and scale automation technologies effectively.  
 
-## What You Will Learn  
+## What you will learn  
 The program covers:  
 - **STEM & Robotics Fundamentals** – Physics, electronics, programming, and smart technologies.  
 - **AI-Driven Automation** – Autonomous mobile robots (AMRs), AI-powered logistics, and warehouse automation.  
@@ -13,14 +11,14 @@ The program covers:
 - **Industry-Ready Robotics Solutions** – Applications in e-commerce, logistics, and industrial automation.  
 - **Business & Entrepreneurship** – Building scalable robotics startups and Robotics-as-a-Service (RaaS) models.  
 
-## Core Pillars  
+## Core pillars  
 Training is structured around four interconnected areas:  
 1. **Deep-Tech & Robotics** – AI-robotics education, both theoretical and practical.  
 2. **Hands-On Development** – Prototyping AMRs, cobots, and AI-powered automation systems.  
 3. **Prototyping & Manufacturing** – Transitioning concepts into real-world production.  
 4. **Business & Entrepreneurship** – Turning robotics innovations into scalable commercial ventures.  
 
-## Our Solution  
+## Our solution  
 This initiative is built on **two open-source projects** that merge **AI-driven automation with practical robotics training**:  
 - **OpenAMR** – Autonomous mobile robots (AMRs) for warehouse logistics and material handling.  
 - **EasyMove** – AI-powered, puzzle-based rack-moving systems for smart storage and sorting.  
