@@ -12,13 +12,10 @@ Help develop the project by contributing code, improving software packages, refi
 Organizations and individuals can support us with:  
 - **Donations**
 ### Support Our Project
+
 Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
-
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
-
 Every contribution, big or small, helps us grow. Thank you for your support!
-
-**[Support our open-source AI & robotics education project by donating via PayPal.me](https://www.paypal.com/paypalme/BotshareAI)**
   
 - **Equipment & electronics** for robotics & AI development  
 - **Fablab facilities** for prototyping & manufacturing  
