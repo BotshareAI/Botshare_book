@@ -56,3 +56,10 @@ Our initiative, **Open Robotics AI & Deep-Tech Education**, offers structured tr
 ---
 
 **Together, let’s build the future of automation - open, intelligent, and accessible to all.**
+
+### Support Our Project
+Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
+
+Every contribution, big or small, helps us grow. Thank you for your support!
