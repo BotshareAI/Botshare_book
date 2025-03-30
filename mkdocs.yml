@@ -11,6 +11,7 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
+    - footer
 
 extra:
   generator: false
