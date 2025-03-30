@@ -11,7 +11,7 @@ Help develop the project by contributing code, improving software packages, refi
 ### 🏭 Sponsors & Supporters  
 Organizations and individuals can support us with:  
 - **Donations**
-**[Support our open-source AI & robotics education project by donating via PayPal.me](https://PayPal.me/BotshareAI!)  
+**[Support our open-source AI & robotics education project by donating via PayPal.me](https://www.paypal.com/paypalme/BotshareAI)  
 - **Equipment & electronics** for robotics & AI development  
 - **Fablab facilities** for prototyping & manufacturing  
 - Contact **Alex@botshare.ai** for partnership opportunities.  
