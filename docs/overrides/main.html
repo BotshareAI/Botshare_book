@@ -2,9 +2,26 @@
 
 {% block footer %}
 {{ super() }}
-<div style="text-align: center; margin-top: 10px; background-color: black; padding: 10px;">
-    <a href="https://www.paypal.com/paypalme/BotshareAI" target="_blank">
-        <img src="https://img.shields.io/badge/Donate-PayPal-black.svg" alt="Donate via PayPal" style="border-radius: 5px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; padding: 10px; background-color: black;">
+    <!-- Social Icons -->
+    <a href="mailto:info@botshare.ai" style="margin: 0 10px;">
+        <i class="fa-solid fa-envelope" style="color: white; font-size: 20px;"></i>
     </a>
+    <a href="https://github.com/openAMRobot" style="margin: 0 10px;">
+        <i class="fa-brands fa-github" style="color: white; font-size: 20px;"></i>
+    </a>
+    <a href="https://www.linkedin.com/company/botshare" style="margin: 0 10px;">
+        <i class="fa-brands fa-linkedin" style="color: white; font-size: 20px;"></i>
+    </a>
+
+    <!-- PayPal Button -->
+    <a href="https://www.paypal.com/paypalme/BotshareAI" target="_blank" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Donate-PayPal-black.svg" alt="Donate via PayPal" style="border-radius: 5px; height: 25px;">
+    </a>
+
+    <!-- Copyright Text -->
+    <span style="color: white; font-size: 14px; margin-left: 10px;">
+        © 2025 Botshare AI. All rights reserved.
+    </span>
 </div>
 {% endblock %}
