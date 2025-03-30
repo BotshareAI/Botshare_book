@@ -45,4 +45,5 @@ Small and medium-sized warehouses struggle with rising e-commerce demand, ineffi
 ## Get started
 This initiative is built for those who want to learn, apply, and innovate in AI-driven robotics and automation.
 
-📖 **[Explore the technology overview](../technology_overview)**
+📖 **[Level 1: Smart Technology & Robotics incubation](../docs/L1_Incubation.md)**  
+🚀 **[Level 2: Robotics and AI acceleration](../docs/L2_Acceleration.md)**  
