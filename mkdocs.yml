@@ -4,6 +4,7 @@ repo_url: "https://github.com/openAMRobot"
 
 theme:
   name: "material"
+  custom_dir: docs/overrides
   features:
     - navigation.tabs
     - navigation.sections
