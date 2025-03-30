@@ -134,4 +134,11 @@ These advanced projects provide additional hands-on experience and can be offere
 
 ### GPR-Based Demining System
 - Phased Array Ground Penetrating Radar (GPR) for landmine detection  
-- AI-driven anomaly detection for subsurface mapping  
+- AI-driven anomaly detection for subsurface mapping
+
+### Support Our Project
+Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
+
+Every contribution, big or small, helps us grow. Thank you for your support!
