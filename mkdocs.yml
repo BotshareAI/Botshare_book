@@ -14,7 +14,6 @@ theme:
     - search.highlight
 
 extra:
-  copyright_html: "© 2025 <a href='https://botshare.ai'>Botshare AI</a>. All rights reserved."
   generator: false
   social:
     - icon: fontawesome/solid/envelope
@@ -23,7 +22,6 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare
-  copyright: "© 2025 Botshare AI. All rights reserved."
 
   use_directory_urls: false
 nav:
