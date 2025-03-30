@@ -12,9 +12,9 @@ theme:
     - toc.integrate
     - search.suggest
     - search.highlight
-    - footer
 
 extra:
+  copyright_html: "© 2025 <a href='https://botshare.ai'>Botshare AI</a>. All rights reserved."
   generator: false
   social:
     - icon: fontawesome/solid/envelope
