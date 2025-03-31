@@ -30,4 +30,4 @@ If you're learning AI & robotics and want to gain hands-on experience, you can:
 ## 🚀 Why Your Support Matters  
 We are in the early stages of defining the **OpenAI & Robotics educational ecosystem**. Your contributions today help us gather resources for a strong launch, stay motivated, and remain focused on our mission. Join us and shape the future of AI-driven robotics education!  
 
-📖 **[Read FAQs](faq/)**
+📖 **[Read FAQs](../faq)**
