@@ -5,11 +5,11 @@
 
 ## What you will learn  
 The program covers:  
-- **STEM & Robotics Fundamentals** – Physics, electronics, programming, and smart technologies.  
+- **STEM & Robotics Fundamentals** – Physics, electronics, programming, and smart technologies.
+- **Deep-Tech Applications** – Mechatronics, Embedded systems, ROS-based systems, ML and computer vision, HMI and UI.  
 - **AI-Driven Automation** – Autonomous mobile robots (AMRs), AI-powered logistics, and warehouse automation.  
-- **Deep-Tech Applications** – Embedded systems, AI navigation, and computer vision.  
-- **Industry-Ready Robotics Solutions** – Applications in e-commerce, logistics, and industrial automation.  
-- **Business & Entrepreneurship** – Building scalable robotics startups and Robotics-as-a-Service (RaaS) models.  
+- **Industry-ready Robotics Solutions** – Applications in e-commerce, logistics, and industrial automation.  
+- **Business & Entrepreneurship** – Robotics commercialization and Robotics-as-a-Service (RaaS) models.  
 
 ## Core pillars  
 Training is structured around four interconnected areas:  
@@ -19,9 +19,9 @@ Training is structured around four interconnected areas:
 4. **Business & Entrepreneurship** – Turning robotics innovations into scalable commercial ventures.  
 
 ## Our solution  
-This initiative is built on **two open-source projects** that merge **AI-driven automation with practical robotics training**:  
+This initiative comprised of two parts: **Level_1: Incubation** and **Level_2 Acceleraion**. First part is a set of PVC educational DIY kits and second part is based on **two open-source real-world projects** that merge **AI-driven automation with practical robotics training**:  
 - **OpenAMR** – Autonomous mobile robots (AMRs) for warehouse logistics and material handling.  
-- **EasyMove** – AI-powered, puzzle-based rack-moving systems for smart storage and sorting.  
+- **EasyMove** – AI-powered, puzzle-based rack-moving systems for smart storage and sorting (in progress...).  
 
 By integrating **AMRs with intelligent storage solutions**, we provide an **affordable, scalable, and flexible** warehouse automation framework while **training professionals in deep-tech disciplines** to drive innovation in robotics and AI.  
 
