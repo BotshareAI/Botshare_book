@@ -98,7 +98,7 @@ By completing this course, learners will:
 This initiative is built for those who want to **learn, apply, and innovate** in AI-driven robotics and automation. Join us to build the future of **AI-powered robotics solutions!**  
 
 
-📖 **[Start learning now](../docs/getting_started.md)**
+📖 **[Start learning now](../getting_started/)**
 
 ### Support Our Project
 Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
