@@ -46,7 +46,7 @@ Small and medium-sized warehouses struggle with rising e-commerce demand, ineffi
 This initiative is built for those who want to learn, apply, and innovate in AI-driven robotics and automation.
 
 📖 **[Level 1: Smart Technology & Robotics incubation](L1_Incubation)**  
-🚀 **[Level 2: Robotics and AI acceleration](/L2_Acceleration)**  
+🚀 **[Level 2: Robotics and AI acceleration](../L2_Acceleration)**  
 
 ### Support Our Project
 Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
