@@ -103,6 +103,8 @@ This initiative is built for those who want to **learn, apply, and innovate** in
 ### Support Our Project
 Help us bring innovative AI & robotics education to the next generation! Your support enables us to enhance the curriculum and develop cutting-edge projects.
 
+<iframe src="https://github.com/sponsors/openAMRobot/card" title="Sponsor openAMRobot" height="225" width="600" style="border: 0;"></iframe>
+
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/BotshareAI)
 
 Every contribution, big or small, helps us grow. Thank you for your support!
