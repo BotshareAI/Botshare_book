@@ -9,9 +9,25 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.instant
+    - navigation.expand
+    - navigation.top
+    - header.autohide
     - toc.integrate
     - search.suggest
     - search.highlight
+    - content.code.copy
+palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
 
 extra:
   generator: false
@@ -26,14 +42,18 @@ extra:
   use_directory_urls: true
 nav:
   - Home: index.md
-  - Getting started: getting_started.md
-  - L1_Incubation: L1_Incubation.md
-  - L2_Acceleration: L2_Acceleration.md
-  - Use cases: use_cases.md
-  - Contributing: contributing.md
-  - Company overview: company_overview.md
-  - FAQ: faq.md
-  - References: references.md
+  - 🚀 Getting Started:
+      - Introduction: getting_started.md
+      - Use Cases: use_cases.md
+  - 🧠 Botshare Framework:
+      - L1 - Incubation: L1_Incubation.md
+      - L2 - Acceleration: L2_Acceleration.md
+      - References: references.md
+  - 👥 Company:
+      - Company Overview: company_overview.md
+      - Contributing: contributing.md
+      - FAQ: faq.md
+  - 🔗 GitHub Repo: https://github.com/openAMRobot
 
 plugins:
   - search:
