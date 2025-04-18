@@ -54,6 +54,9 @@ nav:
       - Contributing: contributing.md
       - FAQ: faq.md
   - 🔗 GitHub Repo: https://github.com/openAMRobot
+markdown_extensions:
+  - admonition
+  - pymdownx.details
 
 plugins:
   - search:
