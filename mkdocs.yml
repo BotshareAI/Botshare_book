@@ -42,18 +42,18 @@ extra:
   use_directory_urls: true
 nav:
   - Home: index.md
-  - 🚀 Getting Started:
+  - Getting Started:
       - Introduction: getting_started.md
       - Use Cases: use_cases.md
-  - 🧠 Botshare Framework:
+  - Botshare Framework:
       - L1 - Incubation: L1_Incubation.md
       - L2 - Acceleration: L2_Acceleration.md
       - References: references.md
-  - 👥 Company:
+  - Company:
       - Company Overview: company_overview.md
       - Contributing: contributing.md
       - FAQ: faq.md
-  - 🔗 GitHub Repo: https://github.com/openAMRobot
+  - GitHub Repo: https://github.com/openAMRobot
 markdown_extensions:
   - admonition
   - pymdownx.details
