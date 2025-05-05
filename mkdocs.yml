@@ -52,7 +52,7 @@ nav:
       - Course Outcomes: index.md#course-outcomes
       - Get Started Now: index.md#get-started-now
       - Support Us: index.md#support-our-project
- - Get Started:
+  - Get Started:
    - Introduction: getting_started.md
    - Use Caese: use_cases.md
  - Botshare Framework:
