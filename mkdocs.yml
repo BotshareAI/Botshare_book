@@ -11,7 +11,6 @@ theme:
     - navigation.instant
     - navigation.expand
     - navigation.top
-    - navigation.indexes
     - header.autohide
     - toc.integrate
     - search.suggest
@@ -43,24 +42,22 @@ extra:
   use_directory_urls: true
 nav:
   - Home:
-      - Overview: "index.md#overview"
-      - Learning: "index.md#What you will learn"
-      - Pillars: "index.md# Core pillars"
-      - Solution: "index.md#Our solution"
-      - Benefits: "index.md#Who benefits?"
-      - Course: "index.md#Course structure"
-          - L1: "index.md#level1: Smart Technology & Robotics incubation"
-          - L2: "index.md#level2:Robotics and AI acceleration"
-      - Open Source: "index.md#Professional Open-Source Learning Environment"
-      - AI Learning: "index.md#AI-Powered Adaptive learning"
-      - Industry Model: "index.md#Industry-Aligned Learning Model"
-      - Careers: "index.md#Target Audience & Career Paths
-          - Who to Join: "index.md#Who should join"
-          - After Course: "index.md#Career paths after completion"
-      - Certification: "index.md#Certification & Career support"
-      - Get Started Now: "index.md#Get Started Now"
-      - Outcomes: "index.md#Course outcomes"
-      - Support Us: "index.md#Support Our Project"
+     - Overview: index.md
+      - Learning: index.md
+      - Pillars: index.md
+      - Solution: index.md
+      - Benefits: index.md
+      - Training Program:
+          - Level 1: index.md
+          - Level 2: index.md
+      - AI Learning: index.md
+      - Industry Model: index.md
+      - Careers:
+          - Who to Join: index.md
+          - After Course: index.md
+      - Certification: index.md
+      - Get Started Now: index.md
+      - Support Us: index.md
   - Getting Started:
       - Introduction: getting_started.md
       - Use Cases: use_cases.md
