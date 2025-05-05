@@ -12,7 +12,7 @@ theme:
   - content.code.copy
  palette:
   - scheme: default
-    primary: blue
+    primary: dark blue
     toggle:
       icon: material/lightbulb-outline
       name: Switch to dark mode
@@ -27,7 +27,7 @@ nav:
    - Introduction: getting_started.md
    - Use Caese: use_cases.md
  - Botshare Framework:
-   - L1 -Incubation: L1_incubation.md
+   - L1 -Incubation: L1_Incubation.md
    - L2 -Acceleration: L2_Acceleration.md
    - References: references.md
  - Company:
