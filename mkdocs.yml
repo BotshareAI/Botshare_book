@@ -33,7 +33,25 @@ extra:
       link: https://www.linkedin.com/company/botshare 
 use_directory_urls: true
 nav:
- - Home: index.md 
+  - Home:
+      - Overview: index.md#open-robotics-ai--deep-tech-initiative
+      - What You Will Learn: index.md#what-you-will-learn
+      - Core Pillars: index.md#core-pillars
+      - Our Solution: index.md#our-solution
+      - Who Benefits: index.md#who-benefits
+      - Course Structure:
+          - Level 1: index.md#level-1-smart-technology--robotics-incubation
+          - Level 2: index.md#level-2robotics-and-ai-acceleration
+      - Learning Environment: index.md#professional-open-source-learning-environment
+      - AI-Powered Learning: index.md#ai-powered-adaptive-learning
+      - Industry Model: index.md#industry-aligned-learning-model
+      - Careers:
+          - Who Should Join: index.md#who-should-join
+          - Career Paths: index.md#career-paths-after-completion
+      - Certification & Support: index.md#certification--career-support
+      - Course Outcomes: index.md#course-outcomes
+      - Get Started Now: index.md#get-started-now
+      - Support Us: index.md#support-our-project
  - Get Started:
    - Introduction: getting_started.md
    - Use Caese: use_cases.md
