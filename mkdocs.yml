@@ -1,4 +1,4 @@
-esite_name: "Botshare Book"
+site_name: "Botshare Book"
 site_url: "https://botshareai.github.io/Botshare_book/"
 repo_url: "https://github.com/openAMRobot"
 
@@ -16,7 +16,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
-palette:
+ palette:
     - scheme: default
       primary: blue
       toggle:
