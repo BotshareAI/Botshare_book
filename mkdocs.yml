@@ -43,22 +43,22 @@ extra:
   use_directory_urls: true
 nav:
   - Home:
-      - Overview: index.md#overview
-      - Learning: index.md#learning
-      - Pillars: index.md#pillars
-      - Solution: index.md#solution
-      - Benefits: index.md#benefits
+      - Overview: "index.md#overview"
+      - Learning: "index.md#learning"
+      - Pillars: "index.md#pillars"
+      - Solution: "index.md#solution"
+      - Benefits: "index.md#benefits"
       - Course:
-          - Level 1: index.md#l1
-          - Level 2: index.md#l2
-      - AI Learning: index.md#ai-learning
-      - Industry Model: index.md#industry-model
+          - L1: "index.md#l1"
+          - L2: "index.md#l2"
+      - AI Learning: "index.md#ai-learning"
+      - Industry Model: "index.md#industry-model"
       - Careers:
-          - Who to Join: index.md#who-to-join
-          - After Course: index.md#after-course
-      - Certification: index.md#certification
-      - Get Started Now: index.md#get-started
-      - Support Us: index.md#support
+          - Who to Join: "index.md#who-to-join"
+          - After Course: "index.md#after-course"
+      - Certification: "index.md#certification"
+      - Get Started Now: "index.md#get-started"
+      - Support Us: "index.md#support"
   - Getting Started:
       - Introduction: getting_started.md
       - Use Cases: use_cases.md
