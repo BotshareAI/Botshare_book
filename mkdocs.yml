@@ -42,7 +42,7 @@ extra:
   use_directory_urls: true
 nav:
   - Home:
-     - Overview: index.md
+      - Overview: index.md
       - Learning: index.md
       - Pillars: index.md
       - Solution: index.md
