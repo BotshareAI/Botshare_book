@@ -1,4 +1,4 @@
-site_name: "Botshare Book"
+esite_name: "Botshare Book"
 site_url: "https://botshareai.github.io/Botshare_book/"
 repo_url: "https://github.com/openAMRobot"
 
@@ -45,14 +45,14 @@ nav:
   - Home: 
       - Overview: index.md
       - Learning: use_cases.md
-      - Pillars: pillars.md
-      - Solution: solution.md
-      - Benefits: benefits.md
+      - Pillars: index.md
+      - Solution: index.md
+      - Benefits: index.md
       - Course:
-          - L1: L1_Incubation.md
-          - L2: L2_Acceleration.md
-      - AI Learning: ai_learning.md
-      - Industry Model: industry_model.md
+          - Level 1: L1_Incubation.md
+          - Level 2: L2_Acceleration.md
+      - AI Learning: index.md
+      - Industry Model: index.md
       - Careers:
           - Who to Join: faq.md
           - After Course: readme.md
