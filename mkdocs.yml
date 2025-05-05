@@ -16,13 +16,13 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
- palette:
+palette:
     - scheme: default
       primary: blue
       toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode
-    - scheme: slate
+   - scheme: slate
       primary: blue
       toggle:
         icon: material/lightbulb
@@ -39,7 +39,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare
 
-  use_directory_urls: true
+use_directory_urls: true
 nav:
   - Home:
       - Overview: index.md
