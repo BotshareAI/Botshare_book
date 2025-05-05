@@ -42,7 +42,23 @@ extra:
 
   use_directory_urls: true
 nav:
-  - Home: index.md
+  - Home: 
+      - Overview: index.md
+      - Learning: use_cases.md
+      - Pillars: pillars.md
+      - Solution: solution.md
+      - Benefits: benefits.md
+      - Course:
+          - L1: L1_Incubation.md
+          - L2: L2_Acceleration.md
+      - AI Learning: ai_learning.md
+      - Industry Model: industry_model.md
+      - Careers:
+          - Who to Join: faq.md
+          - After Course: readme.md
+      - Certification: contributing.md
+      - Get Started Now: getting_started.md
+      - Support Us: contributing.md
   - Getting Started:
       - Introduction: getting_started.md
       - Use Cases: use_cases.md
