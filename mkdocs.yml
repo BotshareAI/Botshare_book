@@ -21,6 +21,16 @@ theme:
     toggle:
       icon: material/lightbulb
       name: Switch to light mode
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@botshare.ai
+    - icon: fontawesome/brands/github
+      link: https://github.com/openAMRobot
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/botshare 
 nav:
  - Home: index.md 
  - Get Started:
