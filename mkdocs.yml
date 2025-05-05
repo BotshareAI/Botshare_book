@@ -31,6 +31,7 @@ extra:
       link: https://github.com/openAMRobot
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/botshare 
+use_directory_urls: true
 nav:
  - Home: index.md 
  - Get Started:
