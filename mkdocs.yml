@@ -44,21 +44,23 @@ extra:
 nav:
   - Home:
       - Overview: "index.md#overview"
-      - Learning: "index.md#learning"
-      - Pillars: "index.md#pillars"
-      - Solution: "index.md#solution"
-      - Benefits: "index.md#benefits"
-      - Course:
-          - L1: "index.md#l1"
-          - L2: "index.md#l2"
-      - AI Learning: "index.md#ai-learning"
-      - Industry Model: "index.md#industry-model"
-      - Careers:
-          - Who to Join: "index.md#who-to-join"
-          - After Course: "index.md#after-course"
-      - Certification: "index.md#certification"
-      - Get Started Now: "index.md#get-started"
-      - Support Us: "index.md#support"
+      - Learning: "index.md#What you will learn"
+      - Pillars: "index.md# Core pillars"
+      - Solution: "index.md#Our solution"
+      - Benefits: "index.md#Who benefits?"
+      - Course: "index.md#Course structure"
+          - L1: "index.md#level1: Smart Technology & Robotics incubation"
+          - L2: "index.md#level2:Robotics and AI acceleration"
+      - Open Source: "index.md#Professional Open-Source Learning Environment"
+      - AI Learning: "index.md#AI-Powered Adaptive learning"
+      - Industry Model: "index.md#Industry-Aligned Learning Model"
+      - Careers: "index.md#Target Audience & Career Paths
+          - Who to Join: "index.md#Who should join"
+          - After Course: "index.md#Career paths after completion"
+      - Certification: "index.md#Certification & Career support"
+      - Get Started Now: "index.md#Get Started Now"
+      - Outcomes: "index.md#Course outcomes"
+      - Support Us: "index.md#Support Our Project"
   - Getting Started:
       - Introduction: getting_started.md
       - Use Cases: use_cases.md
