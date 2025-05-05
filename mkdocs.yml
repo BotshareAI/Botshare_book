@@ -57,6 +57,36 @@ nav:
 markdown_extensions:
   - admonition
   - pymdownx.details
+title: BotShare Framework
+    children:
+level1:
+  title: L1 - Incubation
+  sections:
+    - title: Industrial Automation
+      kits: "Related DIY Kits & Labs:"
+    - title: Smart Homes
+      kits: "Related DIY Kits & Labs:"
+    - title: Agriculture & Sustainability
+      kits: "Related DIY Kits & Labs:"
+    - title: Smart Cities
+      kits: "Related DIY Kits & Labs:"
+    - title: Defense & Aerospace
+      kits: "Related DIY Kits & Labs:"
+    - title: Healthcare
+      kits: "Related DIY Kits & Labs:"
+    - title: Marine & Space
+      kits: "Related DIY Kits & Labs:"
+    - title: AI & Robotics for Learning and Research
+      kits: "Related DIY Kits & Labs:"
+    - title: Autonomous Systems & Advanced Robotics
+      kits: "Related DIY Kits & Labs:"
+    - title: Mini-Laboratories and Demonstration Kits
+      kits:
+        - Arduino-Based Mini-Laboratories:
+        - General Science Demonstration Kits:
+        - Digital Lab Equipment:
+        - Support Our Project
+
 
 plugins:
   - search:
