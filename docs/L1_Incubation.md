@@ -6,7 +6,7 @@ _Students will build **DIY educational kits** using **CNC-milled plastic and vac
 
 Projects include **AI-driven robots, smart home assistants, industrial automation, neurotechnology (e.g., worm's digital neural system), defense, and aerospace applications**, fostering **problem-solving, critical thinking, and future-ready STEM skills**.
 
-## 1. Industrial Automation & Advanced Manufacturing
+## 1. Industrial Automation
 - **Smart Factory** – AI-powered robotics, IoT-based automation, predictive maintenance, and real-time process optimization.
 - **Smart Warehousing** – Robotic inventory management, AI-driven logistics, automated sorting, and warehouse digital twins.
 - **Smart Assembly Lines** – CV, ML and AI-enhanced robotic assembly, cobots for human-machine collaboration.
@@ -18,7 +18,7 @@ Projects include **AI-driven robots, smart home assistants, industrial automatio
 - Conveyor with CV and ML for studying branching algorithms  
 - **STEM Laboratory**: 3D printer, CNC machine, laser engraving, hand tools  
 
-## 2. Smart Homes & Consumer Automation
+## 2. Smart Homes
 - **Smart Home** – AI-powered home automation, energy management, security systems, and voice-controlled assistants.
 - **Smart Cleaning** – AI-based waste sorting and autonomous cleaning systems.
 - **Smart Personal Assistants** – AI-driven household robots for elderly care, health monitoring, and personal assistance.
@@ -27,7 +27,7 @@ Projects include **AI-driven robots, smart home assistants, industrial automatio
 - Smart House Kit (Arduino-based)  
 - Home Automation with Raspberry Pi  
 
-## 3. Agriculture, Environment & Sustainability
+## 3. Agriculture & Sustainability
 - **Smart Farming** – AI-driven crop monitoring, automated irrigation, greenhouse automation, and precision agriculture.
 - **Smart Forestry** – AI-powered deforestation monitoring, automated tree planting, and wildfire prediction.
 - **Smart Ecology** – Real-time pollution monitoring, AI-powered environmental conservation, and green city planning.
@@ -39,7 +39,7 @@ Projects include **AI-driven robots, smart home assistants, industrial automatio
 - Alternative Energy Study Kit  
 - **Environmental Sensors**: Temperature, humidity, air quality, gas, soil moisture, pH, NPK, dissolved oxygen  
 
-## 4. Smart Cities & Infrastructure
+## 4. Smart Cities
 - **Smart City** – AI-driven traffic control, pollution tracking, energy-efficient urban planning, and smart grids.
 - **Smart Transportation & Driverless Systems** – Autonomous vehicles, AI-based public transit, and self-optimizing road networks.
 - **Smart Construction** – AI-automated site management, robotic bricklaying, and structural health monitoring.
@@ -50,7 +50,7 @@ Projects include **AI-driven robots, smart home assistants, industrial automatio
 - Smart Transportation System Kit  
 - Smart Water Management Sensors (Water level, pH, pollution detection)  
 
-## 5. Security, Defense & Aerospace
+## 5.Defense & Aerospace
 - **Smart Security** – AI-driven surveillance, biometric authentication, cyber defense, and automated threat detection.
 - **Smart Defense** – AI-powered surveillance drones, autonomous ground vehicles.
 - **Smart Communication & Radar Systems** – AI-enhanced radio networks and and electronic warefare systems, LiDAR-based mapping, satellite-based networks.
@@ -61,7 +61,7 @@ Projects include **AI-driven robots, smart home assistants, industrial automatio
 - Radar Beam Steering & Object Tracking Kit  
 - LiDAR-based Mapping Kit  
 
-## 6. Healthcare, Medicine & Wellbeing
+## 6. Healthcare
 - **Smart Medicine** – AI-powered diagnostics, robotic-assisted surgery, AI-driven drug discovery, and telemedicine.
 - **Smart Mental Health Systems** – AI-based therapy chatbots, EEG mood analysis, personalized mental health interventions.
 - **Smart Prosthetics & Wearable Health Tech** – AI-enhanced prosthetic limbs, biofeedback systems, real-time health monitoring.
@@ -73,7 +73,7 @@ Projects include **AI-driven robots, smart home assistants, industrial automatio
 - EEG, ECG, EMG Sensor Kits  
 - **Bioelectronics Laboratory**: Sensors: Pulse, GSR, Electrooculography, biomedical electronics  
 
-## 7. Marine, Space & Extreme Environments
+## 7. Marine & Space
 - **Smart Marine Drones** – AI-powered underwater exploration, automated maritime security, and ocean mapping.
 - **Smart Settlement on Mars** – AI-driven habitat construction, robotic exploration, and self-sustaining life support systems.
 - **Smart Space Exploration** – AI-based satellite navigation, planetary resource extraction, and autonomous space station maintenance.
