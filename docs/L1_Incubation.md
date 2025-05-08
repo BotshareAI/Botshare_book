@@ -104,7 +104,7 @@ Projects include **AI-driven robots, smart home assistants, industrial automatio
 - Swarm Robotics Kit  
 - AI-based Computer Vision Kit  
 
-## 10. Mini-Laboratories and Demonstration Kits
+## 10. Mini-Laboratories
 These kits include sensors for biosignals, physical quantities, magnetism, sound, optics, water pH, air quality, and gas composition.
 
 ### **Arduino-Based Mini-Laboratories**:
