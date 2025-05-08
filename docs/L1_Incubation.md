@@ -92,7 +92,7 @@ Projects include **AI-driven robots, smart home assistants, industrial automatio
 - Digital Laboratory with Scientific Sensors  
 - Educational Kit with Programming Blocks  
 
-## 9. Autonomous Systems & Advanced Robotics
+## 9. Autonomous Technologies
 - **Smart Drones** – AI-powered aerial surveillance, automated delivery drones, and autonomous mapping systems.
 - **Smart Swarm Robotics** – AI-controlled robot teams for disaster response, agriculture, and industrial applications.
 - **Smart Humanoids & Assistive Robots** – AI-powered humanoid robots for education, research, and human interaction.
